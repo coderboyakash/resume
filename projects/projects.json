@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tradenest",
+    "desc": "I architected a scalable application with NodeJs , ReactJs and Laravel integrating real-time stock tracking,dynamic watchlists, and group chat using Socket.IO. Users receive live stock updates, manage personalized watchlists, and engage in real-time discussions with fellow investors. Designed for performance and user engagement, my solution empowers informed investment decisions in a collaborative environment.",
+    "image": "notystackandroid",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Mentorpeak",
+    "desc": "I orchestrated MentorPeak's creation, harmonizing ReactJS, Node.js, Laravel, MongoDB, and MySQL to forge a dynamic global mentorship platform. Seamlessly fusing virtual and in-person connections, MentorPeak unites mentees with mentors across diverse domains—life, business, career, marketing, technology, and music. My adept ReactJS implementation ensured an intuitive interface, while Node.js and Laravel fortified the backend. Through MongoDB and MySQL, I optimized data-driven mentor-mentee pairings. I've contributed to a transformative platform propelling growth, learning, and networking globally. My technical finesse and seamless integration have shaped MentorPeak into a pivotal hub for knowledge exchange and personal advancement.",
+    "image": "notystackandroid",
+    "category": "lamp",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
